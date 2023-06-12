@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="disease1_count" type="id">1</item>
+    <item name="disease2_count" type="id">2</item>
+    <item name="disease3_count" type="id">0</item>
+    <item name="Healthy_count" type="id">3</item>
+</resources>
